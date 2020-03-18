@@ -11,9 +11,21 @@ Page {
                             "} " +
                             "</style>"
 
+    property string helpfile
+
+    Component.onCompleted: {
+        switch (Qt.locale().name.substring(0,2)) {
+            case "ru":   // show Russian help in Russian locale (we can add other languages too)
+                helpfile = "../help-ru.html";
+                break;
+            default:
+                helpfile = "../help.html";
+        }
+    }
+    
     FileReader {
         id: docReader
-        source: Qt.resolvedUrl("../help.html")
+        source: Qt.resolvedUrl(helpfile)
     }
 
     SilicaFlickable {
