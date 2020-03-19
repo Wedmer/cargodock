@@ -714,7 +714,7 @@ Pull down to add a service.</source>
     </message>
     <message>
         <source>Not in use</source>
-        <translation>Не занято</translation>
+        <translation>Не используется</translation>
     </message>
     <message>
         <source>SSL</source>
