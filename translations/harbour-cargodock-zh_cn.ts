@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1" language="zh_cn">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutPage</name>
     <message>
         <source>About Cargo Dock</source>
-        <translation>关于Cargo Dock</translation>
+        <translation>关于 Cargo Dock</translation>
     </message>
     <message>
         <source>A two-paned file manager</source>
@@ -13,7 +13,7 @@
     </message>
     <message>
         <source>Cargo Dock is open source software licensed under the terms of the GNU General Public License.</source>
-        <translation>Cargo Dock是一个在 GNU General Public 许可证之下的开源软件。</translation>
+        <translation>Cargo Dock 是一个在 GNU General Public 许可证之下的开源软件。</translation>
     </message>
     <message>
         <source>View license</source>
@@ -25,11 +25,11 @@
     </message>
     <message>
         <source>Dropbox support by Vladimir Ulrich</source>
-        <translation>Dropbox 支持由Vladimir Ulrich制作</translation>
+        <translation>Dropbox 支持由 Vladimir Ulrich 开发</translation>
     </message>
     <message>
         <source>Icon by Morpog</source>
-        <translation>图标由Morpog制作</translation>
+        <translation>图标由 Morpog 设计</translation>
     </message>
 </context>
 <context>
@@ -181,7 +181,7 @@ You may add several Dropbox services connected to different Dropbox accounts. Th
     </message>
     <message>
         <source>%1 selected</source>
-        <translation>已选 %1 </translation>
+        <translation>已选择 %1 </translation>
     </message>
     <message>
         <source>Pull up for actions</source>
@@ -271,7 +271,7 @@ You may add several Dropbox services connected to different Dropbox accounts. Th
     <name>FtpService</name>
     <message>
         <source>FTP Server</source>
-        <translation> FTP 服务</translation>
+        <translation>FTP 服务</translation>
     </message>
     <message>
         <source>Access a FTP server.</source>
@@ -303,7 +303,7 @@ You may add several Dropbox services connected to different Dropbox accounts. Th
     </message>
     <message>
         <source>Leave empty if the server requires no authorization. Please keep in mind that FTP is an insecure protocol and transfers all data, including your login and password in plain text.</source>
-        <translation>如果服务器不需要授权, 则留空。请记住,  FTP是一种不安全的协议, 它会纯文本形式传输所有数据, 包括您的登录名和密码。</translation>
+        <translation>如果服务器不需要授权, 则留空。请记住，FTP 是一种不安全的协议, 它会纯文本形式传输所有数据, 包括您的登录名和密码。</translation>
     </message>
     <message>
         <source>Enter login name</source>
@@ -383,7 +383,7 @@ You may add several Dropbox services connected to different Dropbox accounts. Th
     </message>
     <message>
         <source>Usually the default path is fine. Edit only if the path of your ownCloud installation differs.</source>
-        <translation>使用默认的路径就好。仅当你的ownCloud安装路径不同时才需要编辑。</translation>
+        <translation>使用默认的路径就好。仅当你的 ownCloud 安装路径不同时才需要编辑。</translation>
     </message>
     <message>
         <source>Secure connection</source>
